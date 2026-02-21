@@ -1,4 +1,4 @@
-# app_projet1
+# app_projet1 groupe de Seynabou Sow, Dioulde Mamadou Diallo et Aissata Deme avec api1.
 
 A new Flutter project.
 
